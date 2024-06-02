@@ -1,0 +1,71 @@
+/* font family */
+* {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+  }
+
+/* 1st banner */
+.btext1{
+   font-size: 40px;
+   font-weight: lighter;
+   margin: 20px;
+   padding: 0;
+}
+.btext2{
+    padding-top: 0;
+    font-size: 80px;
+    font-weight: 900;
+    margin: 20px;
+    padding: 0;
+}
+
+.banner-title{
+    text-align: center;
+   color: white;
+   margin: 0;
+   
+}
+.banner{
+   background:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(/resources/Banner\ Image.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   padding: 200px;
+   border-radius: 20px;
+   margin: 50px 70px;
+   margin-bottom: 100px;
+}
+
+
+/* 2nd section */
+.container{
+    
+    width: 82%;
+  max-width: 1920px;
+  margin: 0 auto;
+  justify-content: space-between;
+  text-align: center;
+  
+
+}
+.ctext{
+    color: red;
+}
+
+.categories{
+    color: black;
+    font-weight: 900;
+    font-size: 27px;
+    padding-bottom: 50px;
+}
+
+.off{
+font-size: 62px;
+font-weight: 900;
+padding-bottom: 0;
+}
+.partyimg{
+    width: 600px;
+}
+
+/* 3rd section */
