@@ -103,3 +103,32 @@ padding-bottom: 0;
     padding-left: 40px;
     font-weight: 900;
 }
+/* 4th section */
+.detail{
+  background: linear-gradient(180deg, #ea8bdb 0%, rgba(235, 141, 240, 0) 100%);
+  background-position: center;
+  background-size: cover;
+  padding: 100px;
+  border-radius: 20px;
+  margin: 50px 70px;
+  margin-bottom: 100px;
+    
+    
+}
+.detailtext{
+    color: red;
+    text-align: center;
+   
+}
+#red{
+    color: black;
+}
+.btn2{
+    margin-top: 25px;
+    background-color: red;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: 0;
+}
